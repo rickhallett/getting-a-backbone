@@ -1,0 +1,19 @@
+{
+    "name": "reading_the_source",
+    "version": "0.0.1",
+    "description": "Reading Backbone.js source code",
+    "main": "index.html",
+    "scripts": {
+        "format": "prettier -w ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rickhallett/getting-a-backbone.git"
+    },
+    "author": "rickhallett",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rickhallett/getting-a-backbone/issues"
+    },
+    "homepage": "https://github.com/rickhallett/getting-a-backbone#readme"
+}
