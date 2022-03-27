@@ -15,5 +15,8 @@
     "bugs": {
         "url": "https://github.com/rickhallett/getting-a-backbone/issues"
     },
-    "homepage": "https://github.com/rickhallett/getting-a-backbone#readme"
+    "homepage": "https://github.com/rickhallett/getting-a-backbone#readme",
+    "dependencies": {
+        "decomment": "^0.9.5"
+    }
 }
