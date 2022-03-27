@@ -4,7 +4,6 @@
 // to persist Backbone models within your browser.
 
 // Load the application once the DOM is ready, using `jQuery.ready`:
-console.log('loading');
 $(function () {
     // Todo Model
     // ----------
